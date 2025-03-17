@@ -1,0 +1,21 @@
+name : Samiran
+title : Samanta
+age : 20
+education :
+  school : Deulia Hiraram High School
+  collage : Calcutta Institute of Technology
+social :
+  - samiran@gmail.com
+  - ______toji______
+  - Samiran2004
+testing : |
+  This is
+  multiline
+  string
+list_of_servers :
+  - server_1 :
+    name : "ec2"
+    volume : "8gb"
+  - server_2 :
+    name : "fargate"
+    voulme : "4gb"
