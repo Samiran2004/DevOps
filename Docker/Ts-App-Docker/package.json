@@ -1,0 +1,19 @@
+{
+  "name": "ts-app-docker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Samiran Samanta [samiran.samanta.dev@gmail.com]",
+  "license": "ISC",
+  "description": "A Express TypeScript project for docker practice",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
